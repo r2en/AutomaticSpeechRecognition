@@ -2,7 +2,7 @@
 
 ## Reseach: 主に研究をするディレクトリ群<br>
 
-### [・Voise Signal Processing[音声信号処理]](https://github.com/xxxHAL/AutomaticSpeechRecognition/tree/master/VoiceSignal)<br>
+### [・Voise Signal Processing[音声信号処理]](https://github.com/xxxHAL/AutomaticSpeechRecognition/tree/master/Voice_Signal)<br>
 
 音声波形、フーリエ変換やケプストラム分析、線形予測分析等の音声認識基幹技術を調査しているページ
 
